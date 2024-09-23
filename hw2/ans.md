@@ -1,5 +1,7 @@
 # Homework 2
 
+**All the code files can be compiled by `make compile`, and are executable on Linux distributions.**
+
 ## Chapter 5
 
 ### Simulation
@@ -118,6 +120,8 @@ From my measurement, the average results showed:
 
 - System call: 1 read plus 1 write take 0.29 microseconds in total, so about 0.145 ms for each
 - Context switch: about 1.86 ms for 1 switch
+
+See `measure.c` for details.
 
 ## Chapter 7
 
